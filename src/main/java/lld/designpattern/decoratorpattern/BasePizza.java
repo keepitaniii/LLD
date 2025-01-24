@@ -1,0 +1,5 @@
+package main.java.lld.designpattern.decoratorpattern;
+
+public abstract class BasePizza {
+  public abstract int cost();
+}
