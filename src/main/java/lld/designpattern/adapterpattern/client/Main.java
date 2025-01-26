@@ -1,6 +1,5 @@
 package main.java.lld.designpattern.adapterpattern.client;
 
-import main.java.lld.designpattern.adapterpattern.adaptee.WeighMachine;
 import main.java.lld.designpattern.adapterpattern.adaptee.WeighMachineForBabies;
 import main.java.lld.designpattern.adapterpattern.adapter.WeighMachineAdapter;
 import main.java.lld.designpattern.adapterpattern.adapter.WeighMachineAdapterImpl;
