@@ -5,6 +5,7 @@ import java.util.List;
 
 public class BookMyShowService {
   List<CinemaHall> cinemas;
+  List<Movie> movies;
 
   public List<Movie> getMovies(Date date, String city) {
     return null;
